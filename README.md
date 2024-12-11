@@ -1,6 +1,7 @@
 <div align="center" style="background-color: #2E7D32; padding: 20px; border-radius: 15px;">
-  <img src="![1732385317327](https://github.com/user-attachments/assets/3e753fa3-a490-4617-967c-af8cb96808a3)
-" alt="Banner" style="width:100%; height:auto;" />
+  ![1732385317327](https://github.com/user-attachments/assets/571f2ecf-069f-47e7-9619-e02f0761f540)
+
+  
   <h1 style="color: #FFD700; font-family: 'Comic Sans MS', cursive; font-size: 36px; margin-bottom: 10px;">
     🌴 Hi, I'm George 🐒
   </h1>
