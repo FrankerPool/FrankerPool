@@ -1,5 +1,6 @@
 <div align="center" style="background-color: #2E7D32; padding: 20px; border-radius: 15px;">
-  <img src="https://github.com/user-attachments/assets/29c74f2a-2cd7-49e7-b973-8ab15e7420c8" alt="Banner" style="width:100%; height:auto;" />
+  <img src="![1732385317327](https://github.com/user-attachments/assets/3e753fa3-a490-4617-967c-af8cb96808a3)
+" alt="Banner" style="width:100%; height:auto;" />
   <h1 style="color: #FFD700; font-family: 'Comic Sans MS', cursive; font-size: 36px; margin-bottom: 10px;">
     🌴 Hi, I'm George 🐒
   </h1>
@@ -49,8 +50,6 @@
     </a>
   </div>
 </div>
-
-## 🌐 Connect with Me
 
 <div align="center" style="background-color: #388E3C; padding: 20px; border-radius: 15px;">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: #FFD700;">🐾 Follow Me 🐾</h2>
