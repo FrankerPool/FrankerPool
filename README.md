@@ -53,13 +53,13 @@
 
 <div align="center" style="background-color: #388E3C; padding: 20px; border-radius: 15px;">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: #FFD700;">🐾 Follow Me 🐾</h2>
-  <a href="https://www.linkedin.com/in/jorge-torres-prieto" target="_blank">
+  <a href="https://www.linkedin.com/in/jorgetorresprieto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/JorgeTorresPri" target="_blank">
+  <a href="https://x.com/1_TheLALO" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/jorgetorrespr/" target="_blank">
+  <a href="https://www.instagram.com/theprimategames/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF1744?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
   <a href="https://jorgetorres-300a2.web.app" target="_blank">
